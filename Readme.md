@@ -3,6 +3,7 @@
 
   Library for taobao.com api
 
+  Please refer to the test/example.js to see how to use this.
 ## License 
 
 (The MIT License)
