@@ -2,7 +2,8 @@
     "name": "node-taobao"
   , "version": "0.0.1"
   , "description": "Library for taobao.com api"
-  , "keywords": []
+  , "keywords": ["taobao","top","taobao.com"]
+  , "homepage": "https://github.com/e6nian/node-taobao"
   , "author": "e6nian <e6nian@gmail.com>"
   , "dependencies": {
     "hashlib" : ">=1.0.0"
