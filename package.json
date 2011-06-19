@@ -4,7 +4,11 @@
   , "description": "Library for taobao.com api"
   , "keywords": []
   , "author": "e6nian <e6nian@gmail.com>"
-  , "dependencies": {}
+  , "dependencies": {
+    "hashlib" : ">=1.0.0"
+    ,"request" : ">=1.9.5"
+    ,"dateformat" : ">=1.0.1-1.2.3"
+  }
   , "main": "index"
   , "engines": { "node": "0.4.x" }
 }
