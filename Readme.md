@@ -1,9 +1,11 @@
-
 # node-taobao
 
   Library for taobao.com api
+ 
+## Installation
+    $ npm install node-taobao
+ Please refer to the test/example.js to see how to use this.
 
-  Please refer to the test/example.js to see how to use this.
 ## License 
 
 (The MIT License)
