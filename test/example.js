@@ -1,6 +1,6 @@
 var top = require('../lib/node-taobao')
     ,options = {'host':'gw.api.tbsandbox.com','appKey':'test','appSecret':'test'}
-    ,params  = {'method':'taobao.user.get','fields':'user_id,uid,sex','nick':'sandbox_c_1'}
+    ,params  = {'method':'taobao.user.get','fields':'user_id,uid,sex,location','nick':'sandbox_c_1'}
     ;
 
 
