@@ -6,7 +6,7 @@
   , "homepage": "https://github.com/e6nian/node-taobao"
   , "author": "e6nian <e6nian@gmail.com>"
   , "dependencies": {
-    ,"request" : ">=1.9.5"
+    "request" : ">=1.9.5"
     ,"dateformat" : ">=1.0.1-1.2.3"
   }
   , "main": "index"
