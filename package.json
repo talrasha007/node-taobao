@@ -1,10 +1,10 @@
 {
     "name": "node-taobao"
-  , "version": "0.0.3"
+  , "version": "0.0.4"
   , "description": "Library for taobao.com api"
   , "keywords": ["taobao","top","taobao.com"]
-  , "homepage": "https://github.com/e6nian/node-taobao"
-  , "author": "e6nian <e6nian@gmail.com>"
+  , "homepage": "https://github.com/talrasha007/node-taobao"
+  , "author": "talrasha007 <talrasha007@gmail.com>"
   , "dependencies": {
     "request" : ">=1.9.5"
     ,"dateformat" : ">=1.0.1-1.2.3"

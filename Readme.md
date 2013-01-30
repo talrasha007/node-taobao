@@ -10,7 +10,7 @@
 
 (The MIT License)
 
-Copyright (c) 2011 e6nian &lt;e6nian@gmail.com&gt;
+Copyright (c) 2011 e6nian &lt;e6nian@gmail.com&gt; talrasha007 &lt;talrasha007@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

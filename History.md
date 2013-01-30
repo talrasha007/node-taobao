@@ -1,5 +1,5 @@
 
-0.0.1 / 2010-01-03
+0.0.4 / 2013-01-30
 ==================
 
-  * Initial release
+  * Initial release (Forked from https://github.com/e6nian/node-taobao)
