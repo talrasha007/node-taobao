@@ -3,7 +3,7 @@
   Library for taobao.com api
  
 ## Installation
-    $ npm install node-taobao
+    $ npm install taobao-top
  Please refer to the test/example.js to see how to use this.
 
 ## License 

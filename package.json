@@ -1,7 +1,7 @@
 {
-    "name": "node-taobao"
+    "name": "taobao-top"
   , "version": "0.0.4"
-  , "description": "Library for taobao.com api"
+  , "description": "Library for taobao open platform(top) api"
   , "keywords": ["taobao","top","taobao.com"]
   , "homepage": "https://github.com/talrasha007/node-taobao"
   , "author": "talrasha007 <talrasha007@gmail.com>"
